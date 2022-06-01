@@ -1,4 +1,3 @@
-from httpx import RequestError
 import streamlit
 import pandas as pd
 import requests
